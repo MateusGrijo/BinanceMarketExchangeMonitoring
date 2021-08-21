@@ -8,4 +8,5 @@ Instale o "sqlite-netFx46-setup-x64-2015-1.0.99.0.exe" localizado na pasta Prere
 
 
 Youtube: https://www.youtube.com/watch?v=eR61zbVTk-Q
+
 Download : https://github.com/MateusGrijo/BinanceMarketExchangeMonitoring/blob/master/bin/Debug.7z?raw=true
